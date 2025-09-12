@@ -3,6 +3,7 @@
 # Description
 Contains synthetic dataset generated using
 Gaussian Copula Synthesizer (GCS), Conditional Tabular GAN (CTGAN), and Tabular Variational Autoencoder (TVAE)
+
 As published in "Modeling tabular data using conditional GAN"
 By: Lei Xu, Maria Skoularidou, Alfredo Cuesta-Infante, Kalyan Veeramachaneni
 
