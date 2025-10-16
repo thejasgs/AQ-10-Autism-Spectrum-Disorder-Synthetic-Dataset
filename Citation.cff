@@ -1,16 +1,15 @@
 cff-version: 1.2.0
 message: "Should you use this dataset, please cite it as below."
 
-@inproceedings{Sola2511:Synthetic,
-AUTHOR="Nathanael P Solagratia and Thejas {G.S}",
-TITLE="Synthetic Data Review Using Generative Adversarial Networks and Transformer
-Models in {AQ-10} Autism Spectrum Disorder Dataset",
-BOOKTITLE="2025 International Conference on Artificial Intelligence and Technological
-Solutions (ICAITech) (ICAITech 2025)",
-ADDRESS="virtual, Indonesia",
-PAGES=6,
-DAYS=18,
-MONTH=nov,
-YEAR=2025,
-KEYWORDS="Deep learning; Synthetic dataset; ASD",
-}
+authors:
+- family-names: "Solagratia"
+  given-names: "Nathanael"
+  orcid: "https://orcid.org/0009-0009-4990-7459"
+- family-names: "G.S."
+  given-names: "Thejas"
+  orcid: "https://orcid.org/0000-0001-9606-0128"
+title: "Synthetic Data Review Using Generative Adversarial Networks and Transformer Models in AQ-10 Autism Spectrum Disorder Dataset"
+version: 2.0.4
+doi: 
+date-released: 2025
+url: "https://github.com/thejasgs/AQ-10-Autism-Spectrum-Disorder-Synthetic-Dataset"
