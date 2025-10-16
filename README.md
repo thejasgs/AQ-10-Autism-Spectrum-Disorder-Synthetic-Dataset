@@ -20,17 +20,3 @@ The original dataset is available in Kaggle: https://share.google/iLobyvRoQ8K5fu
 
 ## Permission
 Should you use this synthetic dataset, please cite our work
-
-@INPROCEEDINGS{Sola2511:Synthetic,
-AUTHOR="Nathanael P Solagratia and Thejas {G.S}",
-TITLE="Synthetic Data Review Using Generative Adversarial Networks and Transformer
-Models in {AQ-10} Autism Spectrum Disorder Dataset",
-BOOKTITLE="2025 International Conference on Artificial Intelligence and Technological
-Solutions (ICAITech) (ICAITech 2025)",
-ADDRESS="virtual, Indonesia",
-PAGES=6,
-DAYS=18,
-MONTH=nov,
-YEAR=2025,
-KEYWORDS="Deep learning; Synthetic dataset; ASD",
-}
