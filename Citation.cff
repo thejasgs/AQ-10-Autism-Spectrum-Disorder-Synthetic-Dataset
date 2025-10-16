@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "Should you use this dataset, please cite it as below."
 
-@INPROCEEDINGS{Sola2511:Synthetic,
+@inproceedings{Sola2511:Synthetic,
 AUTHOR="Nathanael P Solagratia and Thejas {G.S}",
 TITLE="Synthetic Data Review Using Generative Adversarial Networks and Transformer
 Models in {AQ-10} Autism Spectrum Disorder Dataset",
