@@ -17,6 +17,8 @@ The original dataset is available in Kaggle: https://share.google/iLobyvRoQ8K5fu
 The Datasets directory contains 3 GAN generated datasets.
 Datasets under Datasets/Preprocessed directory are the ones used in our study.
 
+Datasets are publicly available and if you do use them, please cite our work:
+
 ## Permission
 @INPROCEEDINGS{11387099,
   author={Solagratia, Nathanael P. and Thejas, G.S.},
