@@ -6,8 +6,7 @@
 # AQ-10-Autism-Spectrum-Disorder-Synthetic-Dataset
 
 # Description
-Contains synthetic dataset generated using
-Gaussian Copula Synthesizer (GCS), Conditional Tabular GAN (CTGAN), and Tabular Variational Autoencoder (TVAE).
+**AQ 10 Autism Spectrum Disorder Synthetic Dataset** contains synthetic dataset generated using Gaussian Copula Synthesizer (GCS), Conditional Tabular GAN (CTGAN), and Tabular Variational Autoencoder (TVAE).
 
 
 Preprocessed: Contained the processed version of the synthethic dataset
