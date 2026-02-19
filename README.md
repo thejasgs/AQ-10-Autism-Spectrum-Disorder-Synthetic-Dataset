@@ -15,7 +15,7 @@ Preprocessing steps:
 The original dataset is available in Kaggle: https://share.google/iLobyvRoQ8K5fu872
 
 The Datasets directory contains 3 GAN generated datasets.
-Datasets under Datasets/Preprocessed directory are the ones used in our study.
+Datasets under Datasets/Preprocessed directory are the ones used in our study: DOI: 10.1109/ICAITech66481.2025.11387099.
 
 Datasets are publicly available and if you do use them, please cite our work:
 
