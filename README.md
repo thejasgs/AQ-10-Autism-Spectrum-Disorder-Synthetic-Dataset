@@ -1,4 +1,4 @@
-#Synthetic Data Review Using Generative Adversarial Networks and Transformer Models in AQ-10 Autism Spectrum Disorder Dataset
+# Synthetic Data Review Using Generative Adversarial Networks and Transformer Models in AQ-10 Autism Spectrum Disorder Dataset
 # AQ-10-Autism-Spectrum-Disorder-Synthetic-Dataset
 
 # Description
