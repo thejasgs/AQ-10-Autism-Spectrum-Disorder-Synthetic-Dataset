@@ -10,6 +10,6 @@ authors:
   orcid: "https://orcid.org/0000-0001-9606-0128"
 title: "Synthetic Data Review Using Generative Adversarial Networks and Transformer Models in AQ-10 Autism Spectrum Disorder Dataset"
 version: 2.0.4
-doi: 
+doi: 10.1109/ICAITech66481.2025.11387099
 date-released: 2025
 url: "https://github.com/thejasgs/AQ-10-Autism-Spectrum-Disorder-Synthetic-Dataset"
